@@ -1,3 +1,3 @@
 # Facebook-Landing-Page
 
-This i a Facebook Landing Page 
+This is a Facebook Landing Page 
