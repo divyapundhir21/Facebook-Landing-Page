@@ -1,0 +1,44 @@
+.row{
+    margin-top: 150px;
+}
+
+button{
+    margin-top: 10px;;
+}
+
+input{
+    margin-top: 10px;
+}
+a{
+    display: block;
+    margin-top: 5px;
+}
+
+.page{
+    font-weight: bold;
+    text-decoration:none;
+}
+
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.para{
+    font-size: 24px;
+    line-height: 28px;
+    width: auto;
+}
+body{
+    background-color: aliceblue;
+}
+h1{
+    color:#1877f2;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+.btn-success{
+    background-color:#42b72a !important;
+    margin-left: 70px !important;
+}
